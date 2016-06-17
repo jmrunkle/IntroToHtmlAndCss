@@ -11,9 +11,14 @@
 
 .screenshot {
     max-width: 50%;
+    margin-right: 40px;
 }
 
 .app {
     display: -webkit-flex;
     display: flex;
+}
+
+.title {
+    background-color: #33BEBE;
 }
